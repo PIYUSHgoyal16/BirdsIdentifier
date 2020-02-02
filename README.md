@@ -1,2 +1,2 @@
-# BirdsIdentifier
-This is an Android App
+# BirdsRecogniser
+Identification App for Birds
